@@ -1,0 +1,13 @@
+div{
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+    border-right:40px solid teal;
+    border-bottom: 40px solid teal;
+    border-left: 40px solid teal;
+    
+}
+body{
+    background-color: darkblue;
+    margin:0px;
+}
